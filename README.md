@@ -2,7 +2,7 @@
 includes proof of concept apps, test apps, and experiments
 
 # tKinter, CSV, and Matplot lib test app
-uses data downloaded off of yahoo finance
+uses GME stock data downloaded off of yahoo finance
 <img width="708" alt="matplotlib-gme-csv-test" src="https://user-images.githubusercontent.com/69230048/153903853-3dcf7b26-547f-456c-8d9e-7243098f7470.PNG">
 
 # tkinter, pyTrends, and matplot lib test app
