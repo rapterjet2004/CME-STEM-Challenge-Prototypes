@@ -27,6 +27,7 @@ This is a prototype/proof of concept idea for what our final application would l
 <img width="747" alt="image" src="https://user-images.githubusercontent.com/69230048/155898560-930d46ba-3c13-4df5-bebd-957887bc58cf.png">
 
 # Backtrader Library for performing technical analysis on data
-Backtrader is a fantastic python library for performing technical analysis on financial data. It allows us to program custom strategies and indicators for use in predicting financial prices using the Cerebros engine. It also has a bit of steep learning curve and some boring as idaho <a href="https://www.backtrader.com/docu/">documentation</a>. Here is a matplotlib plot of the Bitcoin data CME sent us graphed using Backtraders inbuild plot() function. Note, the crossover strategy used here performs best during periods of low volatility, which is bitcoin isn't really known for. 
+Backtrader is a fantastic python library for performing technical analysis on financial data. It allows us to program custom strategies and indicators for use in predicting financial prices using the Cerebros engine. It also has a bit of steep learning curve and some boring as idaho <a href="https://www.backtrader.com/docu/">documentation</a>. Here is a matplotlib plot of the Bitcoin data CME sent us graphed using Backtraders inbuild plot() function. Note, the crossover strategy used here performs best during periods of low volatility, which is bitcoin isn't really known for. I manually set the time period to start past the big mountain.
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/69230048/155910854-855d5791-b154-4b91-a50e-c33fef42638c.png">
+
 looks cool right
