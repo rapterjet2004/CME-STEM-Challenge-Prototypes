@@ -17,7 +17,7 @@ Gathers and displays both graphs in tKinter window, on button press
 
 # tKinter Designer API test
 Behold the power of good lighting and iPhone Filters. tKinter is ugly as a molerat, this makes it look better. Uses the web based Figma as a designer for the GUI, data is translated into tKinter using the tKinter Designer API
-documentation found here https://github.com/ParthJadhav/Tkinter-Designer/blob/master/docs/instructions.md#using-cli 
+documentation found <a href="https://github.com/ParthJadhav/Tkinter-Designer/blob/master/docs/instructions.md#using-cli ">here</a>
 
 <img width="601" alt="figma-tKinter-test" src="https://user-images.githubusercontent.com/69230048/153905281-5ad719f7-85ab-458c-963c-843156a234c2.PNG">
 
@@ -25,3 +25,8 @@ documentation found here https://github.com/ParthJadhav/Tkinter-Designer/blob/ma
 This is a prototype/proof of concept idea for what our final application would look like. It's a simple dashboard, buttons nonfunctional. The top Line graph is GME stock, the bottom is google search trends using pytrends. The piechart is a dummy chart. We might make the application a single page application only, to reduce complexity.
 
 <img width="747" alt="image" src="https://user-images.githubusercontent.com/69230048/155898560-930d46ba-3c13-4df5-bebd-957887bc58cf.png">
+
+# Backtrader Library for performing technical analysis on data
+Backtrader is a fantastic python library for performing technical analysis on financial data. It allows us to program custom strategies and indicators for use in predicting financial prices using the Cerebros engine. It also has a bit of steep learning curve and some boring as idaho <a href="https://www.backtrader.com/docu/">documentation</a>. Here is a matplotlib plot of the Bitcoin data CME sent us graphed using Backtraders inbuild plot() function. Note, the crossover strategy used here performs best during periods of low volatility, which is bitcoin isn't really known for. 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/69230048/155910854-855d5791-b154-4b91-a50e-c33fef42638c.png">
+looks cool right
